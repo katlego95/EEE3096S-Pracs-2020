@@ -1,0 +1,121 @@
+-lm -lrt -Og
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 13.359016 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 8.903011 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 20.152025 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 21.396026 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 16.084020 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 9.334012 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 16.945021 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 20.404025 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 9.562012 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 9.516012 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 27.379033 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 11.296013 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 22.892028 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 16.368020 ms
+End Unthreaded Test
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 12.650016 ms
+End Unthreaded Test

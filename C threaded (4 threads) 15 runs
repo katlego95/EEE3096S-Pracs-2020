@@ -1,0 +1,90 @@
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 13.076 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 26.76 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 24.683 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 11.841 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 21.416 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 26.33 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 34.822 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 19.132 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 28.858 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 25.658 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 1.738 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 27.096 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 26.247 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 23.601 ms
+pi@raspberrypi:~/EEE3096S-PRACS-2020/Prac3/C $ make run_threaded
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 4.16 ms
